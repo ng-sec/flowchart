@@ -1,30 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T14:41:05.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="9hbMk9j0hIMMeFPRCWMQ" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T15:03:50.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="I2HeIyGRYz4Ty6E6RIcm" version="15.8.7" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="21ea969265ad0168-39" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;exitX=1;exitY=0.5;" parent="1" edge="1">
+        <mxCell id="kmW9a4KL6ok6pMPhMQha-18" value="需求变更说明" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=none;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="470" y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kmW9a4KL6ok6pMPhMQha-34" value="需求方" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="360" y="125" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="-OnoeYahJmjWw0ui8t4r-10">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350" y="221" />
-              <mxPoint x="590" y="221" />
-            </Array>
-            <mxPoint x="280" y="220" as="sourcePoint" />
-            <mxPoint x="610" y="220" as="targetPoint" />
+            <mxPoint x="550" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kmW9a4KL6ok6pMPhMQha-18" value="需求变更说明" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="430" y="40" width="160" height="30" as="geometry" />
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-10" value="需求沟通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="21ea969265ad0168-7" value="1.变更申请邮件/变更申请表" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="360" y="190" width="160" height="26" as="geometry" />
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-12" value="《变更申请表》" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="630" y="110" width="172.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmW9a4KL6ok6pMPhMQha-34" value="需求方" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="200" width="140" height="84" as="geometry" />
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-16" value="需求评审：《变更排期表计划》" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="680" y="360" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmW9a4KL6ok6pMPhMQha-35" value="开发者" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFB366;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="610" y="204" width="140" height="80" as="geometry" />
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="-OnoeYahJmjWw0ui8t4r-21" target="-OnoeYahJmjWw0ui8t4r-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-21" value="需求评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-24" value="PM/开发" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="245" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="-OnoeYahJmjWw0ui8t4r-25" target="-OnoeYahJmjWw0ui8t4r-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-25" value="项目排期更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="-OnoeYahJmjWw0ui8t4r-26" target="-OnoeYahJmjWw0ui8t4r-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-26" value="上线发布" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-27" value="变更归档" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-29" value="PM" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-30" value="开发" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-31" value="PM" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="560" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-35" value="PM更新《变更记录表》" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="680" y="240" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-OnoeYahJmjWw0ui8t4r-37" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;通过邮件同步需求变更&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="680" y="140" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
